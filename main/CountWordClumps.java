@@ -1,3 +1,4 @@
+package main;
 public class CountWordClumps {
 	public static int countClumps(int[] nums) {
 		if (nums == null || nums.length == 0) {
